@@ -1,0 +1,76 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/z/.config
+- /home/z/Development/betterReadsv2
+- /home/z/Development/mystart
+- /home/z/Development/Udemy/bookNotes
+- /home/z/Development/Udemy/apiProj
+- /home/z/Development/Udemy/blog
+- /home/z/Development/Udemy/qrCodeGenerator
+- /home/z/Development/Udemy/simon-says
+startuppopupversion: 5
+customcommandshistory:
+- git push origin client-only -f
+- git push origin client-only
+- git rm ./server
+- git branch -D client-only
+- git branch -d client-only
+- git remote -v
+- git push origin main -f
+- git checkout testing
+- git checkout testin
+- git rm --cached config.js
+- git remote add origin git@github.com:/zach-monroe/simple-start-page.git
+- gh repo create simple-start-page --public
+- gh repo create mystartpage
+- gh repo create mystart
+- hub create
+- git remot remove origin
+- get remote remove origin
+- git remote add origin git@github.com:zach-monroe/betterReadsv2.git
+- q
+- git --help
+- git push origin main
+- git set origin main
+- git fetch main
+- got config pull.rebase false
+- git pull
+- git remote add origin git@github.com:zach-monroe/youtubeApi.gitgit branch -M maingit
+  push -u origin main
+- git push origin HEAD:master
+- git push HEAD:master
+- git remote use main
+- git remote add origin git@github.com:zach-monroe/blog.git
+- git remote add origin git@github.com:zach-monroe/qrCodeGenerator.git
+- git branch -m main
+- git remote --set-upstream main
+- git branch -m master
+- git remote add origin git@github.com:zach-monroe/youtubeApi.git
+- git remote add origin git@github.com:zach-monroe/betterreads.git
+- git push origin HEAD
+- git pull origin main
+- GIT PUSH ORIGIN HEAD
+- git push -f
+- git push origin HEAD -f
+- git fetch origin HEAD
+- git origin main
+- git branch -m master main
+- git branch -u origin/main
+- git remote add origin https://github.com/zach-monroe/betterReadsv2.git
+- git remote remove origin
+- git reset --hard
+- git rm --cached apiConfig.js
+- git rm --cached ./server/config.js
+- git checkout -b testing
+- git branch main
+- git checkout main
+- origin/main
+- git add .
+- git push origin server-only
+- git checkout server-only
+- git checkout -b client-only
+- git rm -r ./server
+- git checkout client-only
+- git origin/client-only
+hidecommandlog: false
+ignorewhitespaceindiffview: false
